@@ -1,0 +1,2 @@
+# mmdstage
+auto stage
